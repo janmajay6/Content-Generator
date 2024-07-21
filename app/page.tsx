@@ -10,7 +10,7 @@ export default function Home() {
     <div className="bg-gray-900">
       <Header />
       <Hero />
-      <Footer />
+     
       
      
       
